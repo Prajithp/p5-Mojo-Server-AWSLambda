@@ -69,8 +69,6 @@ Mojo::Server::AWSLambda - Mojolicious server for AWS Lambda
     my $server = Mojo::Server::AWSLambda->new(app => $mojo_app)->run;
     $server->($payload);
 
-See the example L<https://github.com/Prajithp/p5-Mojo-Server-AWSLambda/tree/master/example>
-
 =head1 DESCRIPTION
 
 Mojolicious server for AWS Lambda
