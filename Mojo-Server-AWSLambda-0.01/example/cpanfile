@@ -1,4 +1,0 @@
-requires 'Mojolicious';
-requires 'JSON::Types';
-requires 'Try::Tiny';
-requires 'Path::Tiny';
