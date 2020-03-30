@@ -1,0 +1,110 @@
+=head2 Mon Mar 30 08:25:47 2020: C<Module> L<JSON|JSON>
+
+=over 4
+
+=item *
+
+C<installed into: /var/task/extlocal/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Mar 30 08:25:48 2020: C<Module> L<JSON::Types|JSON::Types>
+
+=over 4
+
+=item *
+
+C<installed into: /var/task/extlocal/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Mar 30 08:25:50 2020: C<Module> L<Path::Tiny|Path::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /var/task/extlocal/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.112>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Mar 30 08:25:52 2020: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /var/task/extlocal/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Mar 30 08:26:09 2020: C<Module> L<Mojolicious|Mojolicious>
+
+=over 4
+
+=item *
+
+C<installed into: /var/task/extlocal/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 8.35>
+
+=item *
+
+C<EXE_FILES: script/hypnotoad script/mojo script/morbo>
+
+=back
+
